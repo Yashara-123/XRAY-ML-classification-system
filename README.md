@@ -1,4 +1,10 @@
-# XRAY ML System
+## My Contribution
+This was a university group project.
+My commits appear under the username IT24101780 (my university account) in
+the commit history. I contributed to report management module and took part in model training in the machine learning componenet. This
+fork is hosted here to showcase my work.
+
+Original repository: https://github.com/NandunSamarasekara/XRAY-ML-classification-system# XRAY ML System
 
 [![CI](https://github.com/YOUR_USERNAME/XRAY-ML-system/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/XRAY-ML-system/actions/workflows/ci.yml)  
 [![Python](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)  
